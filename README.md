@@ -10,7 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-27AE60?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-27AE60?style=flat-square)]()
 
-**Mini-projet Intelligence Artificielle — Mars 2026**
+**Mini-projet Base de l'Intelligence Artificielle**
 
 *Recherche heuristique optimale (A\*) + modélisation stochastique (Chaînes de Markov) pour évaluer la robustesse d'un plan déterministe face à l'incertitude d'exécution.*
 
@@ -550,5 +550,10 @@ Chaque section est précédée d'une cellule Markdown avec les formules mathéma
 <div align="center">
 
 **Module Base de l'Intelligence Artificielle**
-Réalisé par: <h4>AIT EL MAHJOUB ABDESSAMAD</h4>
+<hr>
+  Réalisé par :
+  <br>
+  <h4>AIT EL MAHJOUB ABDESSAMAD</h4>
+  <br>
+  <i>Master SDIA - ENSET Mohammedia</i>
 </div>
